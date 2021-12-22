@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		TpoGQA+9aLkVTagRlW7AOpw7mcI=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		o4maVcJawo4rm5ehximEXMKRkp8=
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
@@ -24,13 +24,29 @@
 		<data>
 		33xe6rFwPlxRnZOgZWsODADpUI4=
 		</data>
+		<key>flutter_assets/fonts/Pacifico-Regular.ttf</key>
+		<data>
+		2YfDjoasCULtRWFdoo/ocurpGXA=
+		</data>
+		<key>flutter_assets/fonts/SourceSansPro-Regular.ttf</key>
+		<data>
+		rbEoAsoysIDkV2Qpe7tQ79PyPhk=
+		</data>
+		<key>flutter_assets/images/flutter-layout-challenge.png</key>
+		<data>
+		wGuwmFw3Tv4MZWjzMo+IDzs/CNk=
+		</data>
+		<key>flutter_assets/images/mary-obiagba.jpeg</key>
+		<data>
+		zgw4GmlUK9oK+sA88XIp+4nXwBo=
+		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
 		7Jt1VzUkTmBMIqzT8+Exp0F3vXU=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		vSX5C40PXNwhEvSTOV7fCFJk4Tg=
+		xAWyMM79aYRjtuLUyaCyiIozT4E=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -47,22 +63,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+			TpoGQA+9aLkVTagRlW7AOpw7mcI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			RVrj3TCBM8wA4qz7xIM4hAC5J7/VaZ6sX0zNFarf8Do=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vKJkVIcw+LGHFnKJGwrQwCREv68=
+			o4maVcJawo4rm5ehximEXMKRkp8=
 			</data>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			DGzg5VtmREo8ZVd2xsnx3XMZg+J/HL3y6QURnrRqbmE=
 			</data>
 		</dict>
 		<key>flutter_assets/NOTICES.Z</key>
@@ -87,6 +103,50 @@
 			0E0I/gLatnGI9y4elyWPSg2LWYJSPgLt6hMvgJD5+rQ=
 			</data>
 		</dict>
+		<key>flutter_assets/fonts/Pacifico-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2YfDjoasCULtRWFdoo/ocurpGXA=
+			</data>
+			<key>hash2</key>
+			<data>
+			0IgAiqE75oAWNHXPWyWs6hh9HDMupU7NYj+smdwhjEw=
+			</data>
+		</dict>
+		<key>flutter_assets/fonts/SourceSansPro-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rbEoAsoysIDkV2Qpe7tQ79PyPhk=
+			</data>
+			<key>hash2</key>
+			<data>
+			pMB6OgntxxoFPT7XjWn/GtQvLx9rnxEJC9589hg1XHg=
+			</data>
+		</dict>
+		<key>flutter_assets/images/flutter-layout-challenge.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wGuwmFw3Tv4MZWjzMo+IDzs/CNk=
+			</data>
+			<key>hash2</key>
+			<data>
+			wtFYrwxdSG80cgdhXMA03W3w9jKp6tTacswXd0BaQzg=
+			</data>
+		</dict>
+		<key>flutter_assets/images/mary-obiagba.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zgw4GmlUK9oK+sA88XIp+4nXwBo=
+			</data>
+			<key>hash2</key>
+			<data>
+			4N3sm7yO8uAgTe4eMDzWq+z8QnPdUmUM2AQiOjTDeno=
+			</data>
+		</dict>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<dict>
 			<key>hash</key>
@@ -102,11 +162,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vSX5C40PXNwhEvSTOV7fCFJk4Tg=
+			xAWyMM79aYRjtuLUyaCyiIozT4E=
 			</data>
 			<key>hash2</key>
 			<data>
-			63Gvj5kGmWM8uBbX3k9f6gVpMMSDkd+ibRXpQe8NTDI=
+			3aADkjY6cL41AE81KVfZfA1o518LqWGVkbAN6Bf7Umk=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
