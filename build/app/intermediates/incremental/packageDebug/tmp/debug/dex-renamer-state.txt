@@ -1,4 +1,4 @@
-#Wed Dec 22 04:43:25 WAT 2021
+#Wed Dec 22 05:09:39 WAT 2021
 base.0=/Users/mac/dev/flutter/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
