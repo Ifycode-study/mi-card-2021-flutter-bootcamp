@@ -3,6 +3,10 @@
 
 Mi Card is a personal business card. You get to download my business card as an app.
 
+## Mi card project screenshot
+
+![Mi card project shot](./images/mi-card-shot.png)
+
 ## Flutter layout challenge solution
 
 ![Flutter layout challenge](./images/flutter-layout-challenge.png)
